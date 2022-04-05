@@ -1,5 +1,4 @@
 # Presentación de Programación con Objetos I Nicolas Arcamone
-# Este cambio todavia no se tiene que ver en gitHub
 - [x] Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
 - [x] Instituto de Tecnología e Ingeniería 
 - [x] Licenciatura en Informática
