@@ -10,6 +10,6 @@
 *  Aprobar ambas materias (en lo posible)
 *   Este cuantrimestre los profesoresos son  [Gerrdo Gonzále], **LucasSpigariol** y **Hernan Coniglio*.
 
-### meme
+
 
 ![un meme](https://ahseeit.com/spanish/king-include/uploads/2021/04/thumb_173178226_1745495448963837_5026834463583591802_n-1601328998.jpg)
