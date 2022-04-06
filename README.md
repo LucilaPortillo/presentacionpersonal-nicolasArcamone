@@ -10,3 +10,4 @@
 *  Aprobar ambas materias (en lo posible)
 *   Este cuantrimestre los profesoresos son  [Gerrdo Gonzále], **LucasSpigariol** y **Hernan Coniglio*.
 
+### falta el meme 
