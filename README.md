@@ -1,4 +1,4 @@
-#Mi presentacion Nicolas Arcamone  
+# Mi presentacion personal - Nicolas Arcamone  
 - [x] Estudiante en la Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
 - [x] Instituto de Tecnología e Ingeniería 
 - [x] Licenciatura en Informática
